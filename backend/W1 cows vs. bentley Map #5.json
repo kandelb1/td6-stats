@@ -1,0 +1,541 @@
+{
+    "captimes": [],
+    "game": {
+        "game_id": 8279381,
+        "game_type_cd": "ca",
+        "server_id": 5483,
+        "start": "2022-09-28T03:40:41Z"
+    },
+    "gametype": {
+        "active": true,
+        "game_type_cd": "ca",
+        "name": "Clan Arena"
+    },
+    "map": {
+        "map_id": 2255,
+        "name": "strain",
+        "version": 1
+    },
+    "pgstats": [
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4224,
+            "game_id": 8279381,
+            "player_id": 1747,
+            "pushes": 5403,
+            "rank": 1,
+            "score": 69,
+            "team": 1
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4120,
+            "game_id": 8279381,
+            "player_id": 305151,
+            "pushes": 5243,
+            "rank": 3,
+            "score": 67,
+            "team": 1
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4323,
+            "game_id": 8279381,
+            "player_id": 69118,
+            "pushes": 5510,
+            "rank": 2,
+            "score": 68,
+            "team": 2
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 3922,
+            "game_id": 8279381,
+            "player_id": 324132,
+            "pushes": 4503,
+            "rank": 5,
+            "score": 58,
+            "team": 1
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4698,
+            "game_id": 8279381,
+            "player_id": 15179,
+            "pushes": 4425,
+            "rank": 4,
+            "score": 59,
+            "team": 2
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4728,
+            "game_id": 8279381,
+            "player_id": 9195,
+            "pushes": 3791,
+            "rank": 6,
+            "score": 41,
+            "team": 2
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4553,
+            "game_id": 8279381,
+            "player_id": 49426,
+            "pushes": 3427,
+            "rank": 7,
+            "score": 38,
+            "team": 1
+        },
+        {
+            "alivetime": 412,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "destroys": 4338,
+            "game_id": 8279381,
+            "player_id": 1719,
+            "pushes": 3637,
+            "rank": 6,
+            "score": 41,
+            "team": 2
+        }
+    ],
+    "pwstats": {
+        "15179": {
+            "nick": "<span class='ql7'>mb</span>",
+            "weapons": {
+                "hmg": [
+                    1,
+                    8,
+                    1,
+                    2
+                ],
+                "lg": [
+                    14,
+                    4044,
+                    685,
+                    1701
+                ],
+                "rg": [
+                    1,
+                    240,
+                    3,
+                    9
+                ],
+                "rl": [
+                    0,
+                    113,
+                    4,
+                    5
+                ],
+                "sg": [
+                    0,
+                    20,
+                    4,
+                    20
+                ]
+            }
+        },
+        "1719": {
+            "nick": "<span class='ql7'>izzy <span class='ql1'>-_-<span class='ql7'></span></span></span>",
+            "weapons": {
+                "gl": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "lg": [
+                    3,
+                    1218,
+                    208,
+                    684
+                ],
+                "rg": [
+                    1,
+                    80,
+                    1,
+                    1
+                ],
+                "rl": [
+                    4,
+                    2339,
+                    43,
+                    59
+                ]
+            }
+        },
+        "1747": {
+            "nick": "<span class='ql7'>psygib</span>",
+            "weapons": {
+                "gl": [
+                    0,
+                    0,
+                    0,
+                    3
+                ],
+                "lg": [
+                    9,
+                    3762,
+                    638,
+                    1611
+                ],
+                "pg": [
+                    0,
+                    20,
+                    1,
+                    11
+                ],
+                "rg": [
+                    1,
+                    240,
+                    3,
+                    7
+                ],
+                "rl": [
+                    5,
+                    1321,
+                    25,
+                    41
+                ],
+                "sg": [
+                    2,
+                    60,
+                    13,
+                    60
+                ]
+            }
+        },
+        "305151": {
+            "nick": "<span class='ql7'>cows</span>",
+            "weapons": {
+                "hmg": [
+                    0,
+                    64,
+                    8,
+                    16
+                ],
+                "lg": [
+                    13,
+                    4848,
+                    814,
+                    1785
+                ],
+                "rg": [
+                    3,
+                    240,
+                    3,
+                    5
+                ],
+                "rl": [
+                    0,
+                    91,
+                    2,
+                    2
+                ],
+                "sg": [
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            }
+        },
+        "324132": {
+            "nick": "<span class='ql7'>raul</span>",
+            "weapons": {
+                "lg": [
+                    14,
+                    4170,
+                    706,
+                    1540
+                ],
+                "rg": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "rl": [
+                    0,
+                    333,
+                    9,
+                    11
+                ],
+                "sg": [
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        },
+        "49426": {
+            "nick": "<span class='ql7'>apt</span>",
+            "weapons": {
+                "lg": [
+                    3,
+                    2628,
+                    444,
+                    1132
+                ],
+                "rg": [
+                    1,
+                    160,
+                    2,
+                    3
+                ],
+                "rl": [
+                    0,
+                    579,
+                    6,
+                    8
+                ],
+                "sg": [
+                    1,
+                    60,
+                    12,
+                    40
+                ]
+            }
+        },
+        "69118": {
+            "nick": "<span class='ql7'>dj</span>",
+            "weapons": {
+                "gl": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "lg": [
+                    9,
+                    3918,
+                    663,
+                    1431
+                ],
+                "rg": [
+                    2,
+                    640,
+                    8,
+                    10
+                ],
+                "rl": [
+                    1,
+                    877,
+                    19,
+                    33
+                ],
+                "sg": [
+                    2,
+                    75,
+                    16,
+                    100
+                ]
+            }
+        },
+        "9195": {
+            "nick": "<span class='ql7'><span class='ql1'>Krinzen<span class='ql7'></span></span></span>",
+            "weapons": {
+                "lg": [
+                    3,
+                    2082,
+                    350,
+                    903
+                ],
+                "pg": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "rg": [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "rl": [
+                    1,
+                    1709,
+                    34,
+                    42
+                ]
+            }
+        }
+    },
+    "server": {
+        "ip_addr": "155.138.253.131",
+        "location": "United States",
+        "name": "[1000+, 40ms min] Cocaine, Bad Bitches & Alcohol",
+        "server_id": 5483
+    },
+    "show_elo": true,
+    "show_latency": false,
+    "stats_by_team": {
+        "1": [
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4224,
+                "game_id": 8279381,
+                "player_id": 1747,
+                "pushes": 5403,
+                "rank": 1,
+                "score": 69,
+                "team": 1
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4120,
+                "game_id": 8279381,
+                "player_id": 305151,
+                "pushes": 5243,
+                "rank": 3,
+                "score": 67,
+                "team": 1
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 3922,
+                "game_id": 8279381,
+                "player_id": 324132,
+                "pushes": 4503,
+                "rank": 5,
+                "score": 58,
+                "team": 1
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4553,
+                "game_id": 8279381,
+                "player_id": 49426,
+                "pushes": 3427,
+                "rank": 7,
+                "score": 38,
+                "team": 1
+            }
+        ],
+        "2": [
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4323,
+                "game_id": 8279381,
+                "player_id": 69118,
+                "pushes": 5510,
+                "rank": 2,
+                "score": 68,
+                "team": 2
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4698,
+                "game_id": 8279381,
+                "player_id": 15179,
+                "pushes": 4425,
+                "rank": 4,
+                "score": 59,
+                "team": 2
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4728,
+                "game_id": 8279381,
+                "player_id": 9195,
+                "pushes": 3791,
+                "rank": 6,
+                "score": 41,
+                "team": 2
+            },
+            {
+                "alivetime": 412,
+                "create_dt": "2022-09-28T03:40:47Z",
+                "destroys": 4338,
+                "game_id": 8279381,
+                "player_id": 1719,
+                "pushes": 3637,
+                "rank": 6,
+                "score": 41,
+                "team": 2
+            }
+        ]
+    },
+    "tgstats": [
+        {
+            "caps": null,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "game_id": 8279381,
+            "rounds": 10,
+            "score": null,
+            "team": 1,
+            "team_game_stat_id": 6188749
+        },
+        {
+            "caps": null,
+            "create_dt": "2022-09-28T03:40:47Z",
+            "game_id": 8279381,
+            "rounds": 6,
+            "score": null,
+            "team": 2,
+            "team_game_stat_id": 6188750
+        }
+    ],
+    "weaponFired": {
+        "gl": true,
+        "hmg": true,
+        "lg": true,
+        "pg": true,
+        "rg": true,
+        "rl": true,
+        "sg": true
+    },
+    "weapons": {
+        "gl": {
+            "active": true,
+            "name": "Grenade Launcher",
+            "weapon_cd": "gl"
+        },
+        "hmg": {
+            "active": true,
+            "name": "Heavy Machinegun",
+            "weapon_cd": "hmg"
+        },
+        "lg": {
+            "active": true,
+            "name": "Lightning Gun",
+            "weapon_cd": "lg"
+        },
+        "pg": {
+            "active": true,
+            "name": "Plasma Gun",
+            "weapon_cd": "pg"
+        },
+        "rg": {
+            "active": true,
+            "name": "Railgun",
+            "weapon_cd": "rg"
+        },
+        "rl": {
+            "active": true,
+            "name": "Rocket Launcher",
+            "weapon_cd": "rl"
+        },
+        "sg": {
+            "active": true,
+            "name": "Shotgun",
+            "weapon_cd": "sg"
+        }
+    }
+}

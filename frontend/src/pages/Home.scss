@@ -1,0 +1,32 @@
+@import '../variables';
+
+.week-list {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+
+  .week {
+    padding: 0.5em;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width: 15em;
+    height: 3em;
+    text-align: center;
+    font-size: 120%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 5px black;
+    background-color: $tertiary-color;
+
+    &:hover {
+      background-color: gray;
+    }
+
+  }
+
+}
