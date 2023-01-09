@@ -1,7 +1,7 @@
 @import './variables';
 
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+ p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -19,6 +19,10 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
 }
 // HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
@@ -48,12 +52,61 @@ table {
   border-spacing: 0;
 }
 
+#root {
+  height: 98vh;
+}
+
 @font-face {
-  font-family: 'Droid Sans Mono';
+  font-family: DroidSansMono;
   src: local('DroidSansMono'), url(./fonts/DroidSansMono.ttf) format('ttf');
 }
 
 @font-face {
-  font-family: 'Droid Sans';
+  font-family: DroidSans;
   src: local('DroidSans'), url(./fonts/DroidSans.ttf) format('ttf');
+}
+
+// quake live colors
+.ql1 {
+  color: #fe0000;
+}
+
+.ql2 {
+  color: #00fe00;
+}
+
+.ql3 {
+  color: #fefe00;
+}
+
+.ql4 {
+  color: #3266fe;
+}
+
+.ql5 {
+  color: #00fefe;
+}
+
+.ql6 {
+  color: #fe00fe
+}
+
+.ql7 {
+  color: #fefefe;
+}
+
+.ql0 {
+  color: #000000;
+}
+
+.error {
+  color: $error-color;
+}
+
+.primary {
+  color: $primary-color;
+}
+
+.secondary {
+  color: $secondary-color;
 }

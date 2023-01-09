@@ -3,16 +3,24 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import Main from './pages/Main';
 import reportWebVitals from './reportWebVitals';
-// import 'terminal.css';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+
 root.render(
   <React.StrictMode>
     <Main/>
   </React.StrictMode>
 );
+
+// document.addEventListener('DOMContentLoaded', () => {
+//   root.render(
+//     <React.StrictMode>
+//       <Main/>
+//     </React.StrictMode>    
+//   );
+// })
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
